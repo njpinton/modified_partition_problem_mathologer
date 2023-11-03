@@ -1,5 +1,5 @@
-# modified_partition_problem_mathologer
-Solution to Mathologer's "What Comes Next" Problem at end of the Video The hardest "What comes next?" (Euler's pentagonal formula) https://youtu.be/iJ8pnCO0nTY?t=2960
+# Modified Partition Problem
+The solution to Mathologer's "What Comes Next" Problem at the end of the video The hardest "What comes next?" (Euler's pentagonal formula) https://youtu.be/iJ8pnCO0nTY?t=2960
 
 ```
 integer = 4
